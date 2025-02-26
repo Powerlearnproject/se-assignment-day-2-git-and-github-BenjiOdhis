@@ -45,11 +45,10 @@ Key Inclusions:
 •	License information.
 
 ## Compare and contrast the differences between a public repository and a private repository on GitHub. What are the advantages and disadvantages of each, particularly in the context of collaborative projects?
-Feature	       Public Repo                              Private Repo
-Visibility     Open to all	                            Restricted
-Collaboration	 Anyone can contribute (with permission)  Only invited users
-Security	     Less secure	                            More secure
-Best Use Case	 Open-source projects	                    Proprietary dev
+   Public Repo is Open to all	while private repo is  Restricted
+	In Public Repo Anyone can contribute (with permission)  while in private Only invited users can do so
+	 Public Repo is Less secure while private is More secure
+  Public Repo is used for Open-source projects while private	is used for Proprietary development
 
 
 ## Detail the steps involved in making your first commit to a GitHub repository. What are commits, and how do they help in tracking changes and managing different versions of your project?
